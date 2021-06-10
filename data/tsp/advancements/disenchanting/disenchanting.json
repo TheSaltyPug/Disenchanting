@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Remove enchantments from enchanted items with a book, lapis, and amethyst",
+          "icon": {
+               "item": "minecraft:enchanted_book"
+          },
+          "show_toast": false,
+          "title": "Disenchanting"
+     },
+     "parent": "global:tsp"
+}
