@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type": "item",
+        "location": {
+            "block": {
+                "blocks": [
+                    "enchanting_table"
+                ]
+            }
+        }
+    }
+}
