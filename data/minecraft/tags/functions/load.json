@@ -1,5 +1,6 @@
 {
      "values": [
-          "#tsp:disenchanting/load"
+          "tsp:disenchanting/setup",
+          "tsp:disenchanting/main"
      ]
 }
